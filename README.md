@@ -1,1 +1,1 @@
-# simple js rollup set upp
+# simple browsersync setup
